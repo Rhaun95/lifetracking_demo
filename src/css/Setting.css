@@ -1,0 +1,52 @@
+.setting_Top{
+    display:flex;
+    justify-content: space-between;
+
+    margin: 4% 4%;
+}
+.setting_top_bar{
+    width: 250px;
+    padding-top: 5px;
+}
+.bg-barColor{
+    background-color: #E96479;
+}
+.setting_top_text{
+    color:#7DB9B6;
+
+    font-family: Rajdhani;
+    font-weight: 600;
+}
+
+.setting_container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 10%;
+}
+
+.setting_content{
+    display: flex;
+    flex-direction: column;
+
+}
+
+.setting_content_1 input{
+    width : 650px;
+    height: 60px;
+    padding: 0 20px;
+
+    font-family: Rajdhani;
+    color: #4D455D;
+    font-size: 1.5em;
+    
+
+    border: none;
+
+    margin-bottom: 35px;
+}
+
+.setting_content_2 input{
+    width : 590px;
+    height: 25px;
+}
