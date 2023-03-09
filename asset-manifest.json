@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Rhaun95/lifetracking_demo/static/css/main.f31c5e32.css",
-    "main.js": "/Rhaun95/lifetracking_demo/static/js/main.64deac46.js",
+    "main.js": "/Rhaun95/lifetracking_demo/static/js/main.3dc1342b.js",
     "static/js/787.41e52860.chunk.js": "/Rhaun95/lifetracking_demo/static/js/787.41e52860.chunk.js",
     "index.html": "/Rhaun95/lifetracking_demo/index.html",
     "main.f31c5e32.css.map": "/Rhaun95/lifetracking_demo/static/css/main.f31c5e32.css.map",
-    "main.64deac46.js.map": "/Rhaun95/lifetracking_demo/static/js/main.64deac46.js.map",
+    "main.3dc1342b.js.map": "/Rhaun95/lifetracking_demo/static/js/main.3dc1342b.js.map",
     "787.41e52860.chunk.js.map": "/Rhaun95/lifetracking_demo/static/js/787.41e52860.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f31c5e32.css",
-    "static/js/main.64deac46.js"
+    "static/js/main.3dc1342b.js"
   ]
 }
