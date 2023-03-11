@@ -1,6 +1,6 @@
 .setting_Top{
     display:flex;
-    justify-content: space-between;
+    justify-content: space-around;
 
     margin: 4% 4%;
 }

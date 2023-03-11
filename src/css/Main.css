@@ -1,0 +1,102 @@
+.main_top{
+    display:flex;
+    justify-content: space-around;
+
+    margin: 4% 5% 2% 5%;
+
+    color:#7DB9B6;
+
+    font-family: Rajdhani;
+    font-weight: 600;
+    font-size: 3.5em;
+    
+}
+
+.main_content{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+
+.main_content_level{
+
+    color:#E96479;
+
+    font-family: Rajdhani;
+    font-weight: 600;
+    font-size: 2.2em;
+
+    margin-bottom: 20px;
+}
+.main_content_input{
+    margin-top: 20px;
+}
+.main_content_input_title{
+    font-family: Rajdhani;
+    font-weight: 600;
+    font-size: 1.3em;
+}
+
+.main_content_input_box{
+    position: relative;
+    width: 800px;
+    height: 40px;
+
+    border: none;
+}
+.main_content_input_box > input{
+    width: 800px;
+    height: 40px;
+    padding: 10px 20px;
+    border: none;
+
+    background-color: azure;
+}
+.main_content_input_box > button{
+    position: absolute;
+    right: 10px;
+    top: 4px;
+
+    width: 50px;
+    height: 30px;
+
+    background-color: #E96479;
+    color: whitesmoke;
+    font-family: Rajdhani;
+    font-weight: 500;
+    font-size: 0.9em;
+
+    border: none;
+    border-radius: 10px;
+}
+
+.main_content_toDoBox{
+    
+    width: 800px;
+    height: 200px;
+    background-color: azure;
+
+    margin-top: 20px;
+}
+.main_btn{
+    width: 240px;
+    height: 50px;
+
+    margin-top: 30px;
+
+    text-align: center;
+    line-height: 50px;
+    font-size: 30px;
+    font-family: Rajdhani;
+    font-weight: 500;
+    color: whitesmoke;
+
+    background-color: #4D455D;
+    border-radius: 55px;
+
+    cursor: pointer ;
+}
+.main_content_toDoBox{
+    padding: 15px 20px;
+}
