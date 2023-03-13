@@ -45,13 +45,13 @@ const Main = () => {
         }
         setInput("");
     }
+
     function handleCheck(checked, id){
         if(checked){
             setCheckedArr([...checkedArr, id]);
         }else{
             setCheckedArr(checkedArr.filter((nr)=> nr !== id))
         }
-
     }
 
     function clean(){
@@ -59,19 +59,20 @@ const Main = () => {
 
     };
     console.log("checkedArr: " + checkedArr);
-    function toHome(){
-        navigate("/");
+    function toSetting(){
+        navigate("/setting");
     }
 
     
     return (
         <>
+        
             <div className="main_top">
                 <div className="main_top_todo">
-                    <div>Miracle Morning</div>
+                    Miracle Morning
                 </div>
                 <div className="main_top_day">
-                    <div>D-37</div>
+                   D-37
                 </div>
             </div>
             <div className="main_content">
@@ -107,7 +108,7 @@ const Main = () => {
                         <button onClick={clean}>clean</button>
                     </div>
                 </div>
-                <div className="main_btn" onClick={toHome} >
+                <div className="main_btn" onClick={toSetting} >
                     SATISFIED?
                 </div>
             </div>

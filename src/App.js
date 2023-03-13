@@ -12,6 +12,7 @@ function App() {
       <Routes> 
         <Route path="/" element={<Home/>}/>
         <Route path="/main" element={<Main/>}/>
+        <Route path="/main/:id" element={<Main/>}/>
         <Route path="/setting" element={<Setting/>}/>
       </Routes> 
     </BrowserRouter>
