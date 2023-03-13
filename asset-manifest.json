@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/lifetracking_demo/static/css/main.fff13e10.css",
-    "main.js": "/lifetracking_demo/static/js/main.6defec91.js",
+    "main.css": "/lifetracking_demo/static/css/main.2a96acaf.css",
+    "main.js": "/lifetracking_demo/static/js/main.82ca3cb1.js",
     "static/js/787.41e52860.chunk.js": "/lifetracking_demo/static/js/787.41e52860.chunk.js",
     "index.html": "/lifetracking_demo/index.html",
-    "main.fff13e10.css.map": "/lifetracking_demo/static/css/main.fff13e10.css.map",
-    "main.6defec91.js.map": "/lifetracking_demo/static/js/main.6defec91.js.map",
+    "main.2a96acaf.css.map": "/lifetracking_demo/static/css/main.2a96acaf.css.map",
+    "main.82ca3cb1.js.map": "/lifetracking_demo/static/js/main.82ca3cb1.js.map",
     "787.41e52860.chunk.js.map": "/lifetracking_demo/static/js/787.41e52860.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.fff13e10.css",
-    "static/js/main.6defec91.js"
+    "static/css/main.2a96acaf.css",
+    "static/js/main.82ca3cb1.js"
   ]
 }
